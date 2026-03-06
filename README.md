@@ -1,7 +1,7 @@
 # Top-dawg-pro_backend-agreements-
     From percentage to loyalty of             actual agreements 
 
-# Pinnacle-Core-Systems (v1.0.0)
+# DC Equipment Operations for Road Crew (v1.0.0)
 ### Industrial Maintenance & Pipeline Diagnostic Framework
 
 **Developer:** [Gunner Blake Carr]
